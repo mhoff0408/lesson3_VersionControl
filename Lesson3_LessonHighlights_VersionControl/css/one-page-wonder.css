@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('https://www.linode.com/docs/assets/1204-image_versioning_intro_1.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -66,6 +66,9 @@ footer {
 
     .headline h2 {
         font-size: 63px;
+    }
+     .headline h4 {
+        font-size: 32px;
     }
 
     .featurette-divider {
